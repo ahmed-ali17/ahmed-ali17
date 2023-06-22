@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmed-ali17
+- 👋 Hi, I’m Ahmed Ali
 - 👀 I’m interested in AWS architecture and automation, Python programming and DevOps
 - 📫 You can reach me on linkedin https://www.linkedin.com/in/ahmed-ali-a930a767/
 
